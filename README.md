@@ -126,3 +126,5 @@ Point an A record for your domain to the EC2 public IP (preferably an Elastic IP
 8. Add CloudWatch/Prometheus/Grafana monitoring
 9. Add automated backend/frontend tests and DB migrations
 10. Move to ECS/Fargate or Kubernetes only when the application needs it
+
+## CI/CD Pipeline
